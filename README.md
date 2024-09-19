@@ -94,7 +94,7 @@ if __name__ == "__main__":
 
 
 
-The code below shows a simple form of the Leave Request Management System. The objective is to refactor this code with the intent of making it more maintainable, scalable, and readable through the principles of SOLID.
+The code shows a simple form of the Leave Request Management System. The objective is to refactor this code with the intent of making it more maintainable, scalable, and readable through the principles of SOLID.
 
 Single Responsibility Principle - SRP
 
